@@ -8,3 +8,4 @@ js 30 challenge
 - day4- js arrayMethods
 - day5- js flexPanels
 - day6- js ajaxTypeAhead
+- day7- js arrayMethods-2
