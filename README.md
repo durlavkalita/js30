@@ -9,3 +9,4 @@ js 30 challenge
 - day5- js flexPanels
 - day6- js ajaxTypeAhead
 - day7- js arrayMethods-2
+- day8- js html5Canvas
