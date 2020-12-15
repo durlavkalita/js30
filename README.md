@@ -10,3 +10,4 @@ js 30 challenge
 - day6- js ajaxTypeAhead
 - day7- js arrayMethods-2
 - day8- js html5Canvas
+- day9- js devtoolTricks
