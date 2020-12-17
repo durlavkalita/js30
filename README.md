@@ -12,3 +12,4 @@ js 30 challenge
 - day8- js html5Canvas
 - day9- js devtoolTricks
 - day10- js holdShift
+- day11- js html5VideoControl
