@@ -14,3 +14,4 @@ js 30 challenge
 - day10- js holdShift
 - day11- js html5VideoControl
 - day12- js keySequenceDetection
+- day13- js slideInOnScroll
