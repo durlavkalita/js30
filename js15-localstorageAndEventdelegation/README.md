@@ -6,3 +6,6 @@
 - html
 - css
 - js(localstorage)
+
+### to do-
+- adding remove all, check all, uncheck all
