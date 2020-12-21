@@ -16,3 +16,4 @@ js 30 challenge
 - day12- js keySequenceDetection
 - day13- js slideInOnScroll
 - day14- js referenceVsCopying
+- day15- js localstorageAndEventdelegation
