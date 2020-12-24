@@ -19,3 +19,4 @@ js 30 challenge
 - day15- js localstorageAndEventdelegation
 - day16- js mouseMoveShadow
 - day17- js sortinfArrays
+- day18- js timeReducing
