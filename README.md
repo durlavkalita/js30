@@ -18,3 +18,6 @@ js 30 challenge
 - day14- js referenceVsCopying
 - day15- js localstorageAndEventdelegation
 - day16- js mouseMoveShadow
+- day17- js sortinfArrays
+- day18- js timeReducing
+- day19- js webcamFun
