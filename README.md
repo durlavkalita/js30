@@ -24,3 +24,4 @@ js 30 challenge
 - day20- js speechRecognition
 - day21- js geolocation
 - day22- js linkHighlighter
+- day23- js speechSynthesis
