@@ -23,3 +23,4 @@ js 30 challenge
 - day19- js webcamFun
 - day20- js speechRecognition
 - day21- js geolocation
+- day22- js linkHighlighter
