@@ -26,3 +26,4 @@ js 30 challenge
 - day22- js linkHighlighter
 - day23- js speechSynthesis
 - day24- js stickyNav
+- day25- js eventPropagation
