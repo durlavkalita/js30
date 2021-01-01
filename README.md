@@ -27,3 +27,4 @@ js 30 challenge
 - day23- js speechSynthesis
 - day24- js stickyNav
 - day25- js eventPropagation
+- day26- js stripeNav
