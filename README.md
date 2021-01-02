@@ -28,3 +28,4 @@ js 30 challenge
 - day24- js stickyNav
 - day25- js eventPropagation
 - day26- js stripeNav
+- day27- js clickAndDrag
