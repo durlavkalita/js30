@@ -29,3 +29,4 @@ js 30 challenge
 - day25- js eventPropagation
 - day26- js stripeNav
 - day27- js clickAndDrag
+- day28- js videoSpeedController
