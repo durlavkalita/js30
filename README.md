@@ -30,3 +30,4 @@ js 30 challenge
 - day26- js stripeNav
 - day27- js clickAndDrag
 - day28- js videoSpeedController
+- day29- js countdownClock
