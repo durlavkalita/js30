@@ -31,3 +31,4 @@ js 30 challenge
 - day27- js clickAndDrag
 - day28- js videoSpeedController
 - day29- js countdownClock
+- day30- js whackAMole
